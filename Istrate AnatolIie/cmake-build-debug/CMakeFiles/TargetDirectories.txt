@@ -1,0 +1,3 @@
+C:/Users/Aelot/Desktop/Istrate Anatolie/cmake-build-debug/CMakeFiles/CC.dir
+C:/Users/Aelot/Desktop/Istrate Anatolie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aelot/Desktop/Istrate Anatolie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
